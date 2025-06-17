@@ -1,0 +1,15 @@
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\bin\Debug\net8.0\New-DotNet-Console-App.exe
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\bin\Debug\net8.0\New-DotNet-Console-App.deps.json
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\bin\Debug\net8.0\New-DotNet-Console-App.runtimeconfig.json
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\bin\Debug\net8.0\New-DotNet-Console-App.dll
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\bin\Debug\net8.0\New-DotNet-Console-App.pdb
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.AssemblyInfoInputs.cache
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.AssemblyInfo.cs
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.csproj.CoreCompileInputs.cache
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.sourcelink.json
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.dll
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\refint\New-DotNet-Console-App.dll
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.pdb
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\New-DotNet-Console-App.genruntimeconfig.cache
+D:\Personal and Office Documents\Learning Bootcamp\Angular Training\Personal-Projects\New-DotNet-Console-App\obj\Debug\net8.0\ref\New-DotNet-Console-App.dll
